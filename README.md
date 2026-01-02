@@ -4,7 +4,6 @@
 
 FORGE is a premium productivity system designed to replace chaotic task lists with a structured execution protocol. It combines psychological triggers, flow state mechanics, and rigorous data isolation to force deep work sessions.
 
-![Forge Banner](public/og-image.jpg) *<!-- Replace with actual screenshot path if available -->*
 
 ## ⚡ Core Philosophy
 
